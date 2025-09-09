@@ -168,5 +168,5 @@ class CurrentFocus:
 </div>
 
 <div align="center">
-  <i>"The best way to predict the future is to create it." - Peter Drucker</i>
+  <i>"With great power comes great responsibility." - Voltaire</i>
 </div>
