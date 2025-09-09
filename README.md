@@ -169,4 +169,4 @@ class CurrentFocus:
 
 <div align="center">
   <i>"With great power comes great responsibility." - Voltaire</i>
-</div>
+</div> 
