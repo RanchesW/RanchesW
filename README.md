@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Alikhan!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Lead+Python+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Self-Taught+Game+Developer+(Unity+%26+GameMaker);Full-Stack+Web+Developer;Minecraft+Plugin+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Lead+Python+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Game+Developer+(Unity+%26+GameMaker);Full-Stack+Web+Developer;Minecraft+Plugin+Creator" alt="Typing SVG" />
 </div>
 
 <br>
