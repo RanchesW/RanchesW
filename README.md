@@ -152,7 +152,7 @@ class CurrentFocus:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RanchesW&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
