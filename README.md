@@ -1,16 +1,16 @@
 # 👋 Hello, I'm Alikhan!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Lead+Python+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Self-Taught+Game+Developer;Full-Stack+Web+Developer;Minecraft+Plugin+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Lead+Python+Software+Developer;AI+%26+Machine+Learning+Enthusiast;Self-Taught+Game+Developer+(Unity+%26+GameMaker);Full-Stack+Web+Developer;Minecraft+Plugin+Creator" alt="Typing SVG" />
 </div>
 
 <br>
 
 ## 🚀 About Me
 
-I'm an **aspiring coder** passionate about **Artificial Intelligence** and a **self-taught game developer** with expertise in pixel art and game engine programming. Currently serving as a **Lead Python Software Developer**, I love turning complex problems into elegant solutions.
+I'm an **aspiring coder** passionate about **Artificial Intelligence** and a **self-taught game developer** with experience in Unity (C#) and GameMaker Studio. Currently serving as a **Lead Python Software Developer**, I love turning complex problems into elegant solutions.
 
-🎯 **What drives me:** Creating intelligent systems that make a real impact, from predictive analytics to AI assistants, and crafting immersive gaming experiences.
+🎯 **What drives me:** Creating intelligent systems that make a real impact, from predictive analytics to AI assistants, and crafting engaging 2D gaming experiences with pixel art.
 
 <br>
 
@@ -29,10 +29,12 @@ I'm an **aspiring coder** passionate about **Artificial Intelligence** and a **s
 
 ## 🎮 Game Development & Creative Projects
 
-**🎨 Pixel Art & Game Engine Programming**
-- Creating custom game engines from scratch
-- Designing pixel art assets and animations
-- Exploring procedural generation techniques
+**🎨 2D Game Development & Pixel Art**
+- **Unity (C#):** Developed 3D games with custom scripts and mechanics
+- **GameMaker Studio:** Currently focused on 2D game development
+- **3D Modeling Background:** Cinema 4D and Blender experience
+- **Pixel Art:** Creating custom sprites and animations for 2D games
+- **Current Focus:** 2D indie game development with handcrafted pixel art
 
 **⚡ Current Focus: Minecraft Development**
 - Developing custom plugins for my SMP server
@@ -58,6 +60,7 @@ I'm an **aspiring coder** passionate about **Artificial Intelligence** and a **s
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -72,6 +75,12 @@ I'm an **aspiring coder** passionate about **Artificial Intelligence** and a **s
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Game Development & Creative Tools
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Cinema4D](https://img.shields.io/badge/Cinema4D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
+
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -85,12 +94,12 @@ I'm an **aspiring coder** passionate about **Artificial Intelligence** and a **s
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RanchesW&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanchesW&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanchesW&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -102,20 +111,22 @@ class CurrentFocus:
     def __init__(self):
         self.learning = [
             "Advanced Java for Minecraft Plugin Development",
+            "GameMaker Studio for 2D Indie Games",
+            "Advanced Pixel Art Techniques",
             "Computer Vision & Deep Learning",
-            "Game Engine Architecture",
             "Cloud Architecture & DevOps"
         ]
         
         self.working_on = [
             "Custom Minecraft SMP Server Plugins",
+            "2D Indie Game with GameMaker Studio",
             "Personal Full-Stack Web Application", 
-            "AI-Powered Game Development Tools",
-            "Advanced RAG Systems"
+            "AI-Powered Document Processing Tools",
+            "Pixel Art Asset Creation"
         ]
     
     def next_goal(self):
-        return "Building the next generation of AI-powered gaming experiences! 🎮🤖"
+        return "Building the next generation of AI-powered applications and indie 2D games! 🎮🤖"
 ```
 
 <br>
@@ -129,8 +140,9 @@ class CurrentFocus:
 | 🤖 **Smart KPI Dashboard** | Telegram Bot + PowerBI integration for employee analytics | Python, PowerBI API, Telegram Bot |
 | ⛽ **Gas Station Predictor** | Prophet ML model for fuel consumption forecasting | Python, Prophet, Time Series Analysis |
 | 📚 **RAG Document Assistant** | AI assistant processing 1500+ company documents | DeepSeek, Tesseract OCR, NLP |
-| 🌐 **Full-Stack Web App** | Personal website with modern architecture | TypeScript, MongoDB, React |
+| 🌐 **Full-Stack Web App** | Personal portfolio website with modern architecture | TypeScript, MongoDB, React |
 | ⚔️ **Minecraft SMP Plugins** | Custom Java plugins for enhanced gameplay | Java, Bukkit/Spigot API |
+| 🎮 **2D Indie Games** | GameMaker Studio projects with custom pixel art | GameMaker, C#, Pixel Art |
 
 </div>
 
@@ -140,10 +152,10 @@ class CurrentFocus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikhan-abdraimov-a289a7317/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/RanchesWest/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ranchesw.github.io/portfolio-app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:studyworkforce@gmail.com)
 
 </div>
 
